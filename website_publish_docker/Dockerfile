@@ -7,8 +7,8 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
-COPY ["website_publish_docker/website_publish_docker.csproj", "website_publish_docker/"]
-RUN dotnet restore "website_publish_docker/website_publish_docker.csproj"
+COPY ["website_publish_docker.csproj", "website_publish_docker/"]
+RUN dotnet restore "website_publish_docker.csproj"
 COPY . .
 WORKDIR "/src/website_publish_docker"
 RUN dotnet build "website_publish_docker.csproj" -c Release -o /app/build
