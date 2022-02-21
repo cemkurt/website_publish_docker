@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jtmE5q2xFZD/cAHZW6+rtJb2kjvsg0Jlkej8eagwxNHB1CsoS1r7L/fjjOCznT6OG4Ehpx6zBUQ9a13Whg6hFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\-\\source\\repos\\website_publish_docker\\website_publish_docker\\website_publish_docker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\-\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

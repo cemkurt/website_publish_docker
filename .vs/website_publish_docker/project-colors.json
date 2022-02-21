@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d546bb0c-f730-4ebf-b868-2517fea7c421": {
+      "ProjectGuid": "d546bb0c-f730-4ebf-b868-2517fea7c421",
+      "DisplayName": "website_publish_docker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
